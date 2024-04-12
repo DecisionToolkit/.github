@@ -1,5 +1,3 @@
-# Decision Toolkit
-
 [mit-url]: https://opensource.org/licenses/MIT
 [mit-license-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE-MIT
 [apache-url]: https://www.apache.org/licenses/LICENSE-2.0
