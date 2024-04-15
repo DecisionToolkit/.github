@@ -6,9 +6,8 @@
 
 # Installation
 
-[Install Rust and Cargo](https://www.rust-lang.org/tools/install), and then:
-
-> $ cargo install dsntk
+1. [Install Rust and Cargo](https://www.rust-lang.org/tools/install)
+2. Run `cargo install dsntk`
  
 # Overview
 
