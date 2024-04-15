@@ -4,13 +4,13 @@
 [apache-license-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE
 [apache-notice-url]: https://github.com/dsntk/dsntk-rs/blob/main/NOTICE
 
-### Installation
+# Installation
 
 [Install Rust and Cargo](https://www.rust-lang.org/tools/install), and then:
 
 > $ cargo install dsntk
  
-## Overview
+# Overview
 
 **Decision Toolkit** is a suite of tools designed to build, evaluate and test decision models.
 
@@ -43,17 +43,17 @@ to ensure high performance, reliability and portability.
 - Exporting decision tables to HTML
 - Exporting FEEL expressions to HTML
 
-## Documentation
+# Documentation
 
 **Decision Toolkit** documentation can be found [here](https://dsntk.io).
 
-## Project status
+# Project status
 
 **Decision Toolkit** is _**production ready**_, but there are still some features that may be subject to change or refinement,
 based on testing and user feedback. We welcome users to try **Decision Toolkit** out and provide feedback or suggestions
 to improve its usability or performance.
 
-## License
+# License
 
 Licensed under either of
 
@@ -62,7 +62,7 @@ Licensed under either of
 
 at your option.
 
-## Contribution
+# Contribution
 
 Any contributions to [**Decision Toolkit**](https://github.com/DecisionToolkit) are greatly appreciated.
 All contributions intentionally submitted for inclusion in the work by you,
