@@ -4,6 +4,18 @@
 [apache-license-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE
 [apache-notice-url]: https://github.com/dsntk/dsntk-rs/blob/main/NOTICE
 
+## Installation
+
+[Install Rust and Cargo](https://www.rust-lang.org/tools/install), and then:
+
+```shell
+$ cargo install dsntk
+``` 
+
+
+
+## Overview
+
 **Decision Toolkit** is a suite of tools designed to build, evaluate and test decision models.
 
 **Decision Toolkit** is constructed based on the [Decision Model and Notation (DMN™)](https://www.omg.org/dmn/)
