@@ -8,12 +8,8 @@
 
 [Install Rust and Cargo](https://www.rust-lang.org/tools/install), and then:
 
-```shell
-$ cargo install dsntk
-``` 
-
-
-
+> $ cargo install dsntk
+ 
 ## Overview
 
 **Decision Toolkit** is a suite of tools designed to build, evaluate and test decision models.
