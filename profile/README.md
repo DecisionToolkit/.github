@@ -4,7 +4,7 @@
 [apache-license-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE
 [apache-notice-url]: https://github.com/dsntk/dsntk-rs/blob/main/NOTICE
 
-## Installation
+### Installation
 
 [Install Rust and Cargo](https://www.rust-lang.org/tools/install), and then:
 
