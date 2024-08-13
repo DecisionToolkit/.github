@@ -44,7 +44,7 @@ to ensure high performance, reliability and portability.
 
 # Documentation
 
-**Decision Toolkit** documentation can be found [here](https://dsntk.io).
+**Decision Toolkit** documentation can be found [here](https://decision-toolkit.org).
 
 # Project status
 
