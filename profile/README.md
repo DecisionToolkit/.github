@@ -8,24 +8,22 @@
  
 # Overview
 
-**Decision Toolkit** is a suite of tools designed to build, evaluate and test decision models.
+**Decision Toolkit** is a tool designed to build, test and evaluate decision models,
+constructed basing on the [Decision Model and Notation](https://www.omg.org/dmn) (DMN™) specification,
+which is an industry standard governed by the [Object Management Group](https://www.omg.org) (OMG®).
 
-**Decision Toolkit** is constructed based on the [Decision Model and Notation (DMN™)](https://www.omg.org/dmn/)
-specification, which is an industry standard governed by the [Object Management Group (OMG®)](https://www.omg.org/).
+**Decision Toolkit** aims to be performant, reliable, and fully compliant with the [DMN](https://www.omg.org/dmn)™
+specification, ensuring accurate evaluation of decision models.
+All tools are implemented in [Rust](https://www.rust-lang.org/), a programming language known for
+its security, efficiency and reliability.
 
-**Decision Toolkit** aims to be performant, reliable, and fully compliant with the [DMN™](https://www.omg.org/spec/DMN) specification,
-ensuring accurate evaluation of decision models. All tools are implemented in [Rust](https://www.rust-lang.org/),
-a programming language known for its security, efficiency and reliability.
+**Decision Toolkit** offers a range of features, including [DMN](https://www.omg.org/dmn)™ models evaluation,
+decision tables evaluation, and FEEL expressions evaluation. It also includes functionality for parsing, validating,
+and recognizing [DMN](https://www.omg.org/dmn)™ models, decision tables, and FEEL expressions.
+Users can test [DMN](https://www.omg.org/dmn)™ models, decision tables, and FEEL expressions, and export them to HTML.
 
-**Decision Toolkit** offers a range of features, including DMN model evaluation, decision table evaluation, and FEEL expression evaluation.
-It also includes functionality for parsing, validating, and recognizing DMN models, decision tables, and FEEL expressions.
-Users can test DMN models, decision tables, and FEEL expressions, and export them to HTML format.
-
-**Decision Toolkit** provides a comprehensive set of tools for decision model evaluation and testing,
-leveraging the [DMN™](https://www.omg.org/spec/DMN) specification and [Rust](https://www.rust-lang.org/) programming language
-to ensure high performance, reliability and portability.
-
-**Main features**:
+## Features:
+- [Serving DMN™ models](https://decision-toolkit.org/guide/commands/command-srv.html)
 - Evaluation of DMN models
 - Evaluation of decision tables
 - Evaluation of FEEL expressions
@@ -45,9 +43,10 @@ to ensure high performance, reliability and portability.
 
 # Project status
 
-**Decision Toolkit** is _**production ready**_, but there are still some features that may be subject to change or refinement,
-based on testing and user feedback. We welcome users to try **Decision Toolkit** out and provide feedback or suggestions
-to improve its usability or performance.
+**Decision Toolkit** is **PRODUCTION-READY**, although some features
+may still be refined or changed based on testing and user feedback.
+We encourage users to try **Decision Toolkit** and share their feedback
+to help us enhance its usability and performance.
 
 # License
 
