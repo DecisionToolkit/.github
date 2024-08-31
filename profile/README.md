@@ -4,10 +4,7 @@
 [apache-license-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE
 [apache-notice-url]: https://github.com/dsntk/dsntk-rs/blob/main/NOTICE
 
-# Installation
-
-- [Install Rust and Cargo](https://www.rust-lang.org/tools/install)
-- Open terminal and run: `cargo install dsntk`
+[Installation](https://decision-toolkit.org/guide/installation.html)
  
 # Overview
 
