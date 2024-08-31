@@ -4,7 +4,7 @@
 [apache-license-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE
 [apache-notice-url]: https://github.com/dsntk/dsntk-rs/blob/main/NOTICE
 
-[Installation](https://decision-toolkit.org/guide/installation.html)
+### [Installation](https://decision-toolkit.org/guide/installation.html)
  
 # Overview
 
