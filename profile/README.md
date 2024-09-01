@@ -24,18 +24,19 @@ Users can test [DMN](https://www.omg.org/dmn)™ models, decision tables, and FE
 
 ## Features:
 - [Serving DMN™ models](https://decision-toolkit.org/guide/commands/command-srv.html)
-- Evaluation of DMN models
-- Evaluation of decision tables
-- Evaluation of FEEL expressions
-- Parsing and validating DMN models
-- Parsing and recognizing decision tables
-- Parsing and validating FEEL expressions
-- Testing DMN models
-- Testing decision tables
-- Testing FEEL expressions
-- Exporting DMN models to HTML
-- Exporting decision tables to HTML
-- Exporting FEEL expressions to HTML
+- [Evaluation of DMN models](https://decision-toolkit.org/guide/commands/command-edm.html)
+- [Evaluation of decision tables](https://decision-toolkit.org/guide/commands/command-edt.html)
+- [Evaluation of FEEL expressions](https://decision-toolkit.org/guide/commands/command-efe.html)
+- [Parsing and validating DMN models](https://decision-toolkit.org/guide/commands/command-pdm.html)
+- [Parsing and recognizing decision tables](https://decision-toolkit.org/guide/commands/command-pdt.html)
+- [Parsing and validating FEEL expressions](https://decision-toolkit.org/guide/commands/command-pfe.html)
+- [Testing DMN models](https://decision-toolkit.org/guide/commands/command-tdm.html)
+- [Testing decision tables](https://decision-toolkit.org/guide/commands/command-tdt.html)
+- [Testing FEEL expressions](https://decision-toolkit.org/guide/commands/command-tfe.html)
+- [Exporting DMN models to HTML](https://decision-toolkit.org/guide/commands/command-xdm.html)
+- [Exporting decision tables to HTML](https://decision-toolkit.org/guide/commands/command-xdt.html)
+- [Exporting FEEL expressions to HTML](https://decision-toolkit.org/guide/commands/command-xfe.html)
+- [Saving examples](https://decision-toolkit.org/guide/commands/command-exs.html)
 
 # Documentation
 
