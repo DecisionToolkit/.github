@@ -23,9 +23,9 @@ and export them to HTML.
 
 ### Features:
 - [Serving DMN™ models](https://decision-toolkit.org/guide/commands/command-srv.html)
-- [Evaluation of DMN™ models](https://decision-toolkit.org/guide/commands/command-edm.html)
-- [Evaluation of decision tables](https://decision-toolkit.org/guide/commands/command-edt.html)
-- [Evaluation of FEEL expressions](https://decision-toolkit.org/guide/commands/command-efe.html)
+- [Evaluating DMN™ models](https://decision-toolkit.org/guide/commands/command-edm.html)
+- [Evaluating decision tables](https://decision-toolkit.org/guide/commands/command-edt.html)
+- [Evaluating FEEL expressions](https://decision-toolkit.org/guide/commands/command-efe.html)
 - [Parsing and validating DMN™ models](https://decision-toolkit.org/guide/commands/command-pdm.html)
 - [Parsing and recognizing decision tables](https://decision-toolkit.org/guide/commands/command-pdt.html)
 - [Parsing and validating FEEL expressions](https://decision-toolkit.org/guide/commands/command-pfe.html)
