@@ -22,7 +22,7 @@ decision tables evaluation, and FEEL expressions evaluation. It also includes fu
 and recognizing [DMN](https://www.omg.org/dmn)™ models, decision tables, and FEEL expressions.
 Users can test [DMN](https://www.omg.org/dmn)™ models, decision tables, and FEEL expressions, and export them to HTML.
 
-## Features:
+### Features:
 - [Serving DMN™ models](https://decision-toolkit.org/guide/commands/command-srv.html)
 - [Evaluation of DMN models](https://decision-toolkit.org/guide/commands/command-edm.html)
 - [Evaluation of decision tables](https://decision-toolkit.org/guide/commands/command-edt.html)
