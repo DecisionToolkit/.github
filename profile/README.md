@@ -4,6 +4,7 @@
 [apache-license-url]: https://github.com/dsntk/dsntk-rs/blob/main/LICENSE
 [apache-notice-url]: https://github.com/dsntk/dsntk-rs/blob/main/NOTICE
 
+### [Documentation](https://decision-toolkit.org)
 ### [Installation](https://decision-toolkit.org/guide/installation.html)
  
 # Overview
@@ -37,10 +38,6 @@ Users can test [DMN](https://www.omg.org/dmn)™ models, decision tables, and FE
 - [Exporting decision tables to HTML](https://decision-toolkit.org/guide/commands/command-xdt.html)
 - [Exporting FEEL expressions to HTML](https://decision-toolkit.org/guide/commands/command-xfe.html)
 - [Saving examples](https://decision-toolkit.org/guide/commands/command-exs.html)
-
-# Documentation
-
-**Decision Toolkit** documentation can be found [here](https://decision-toolkit.org).
 
 # Project status
 
