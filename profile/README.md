@@ -32,9 +32,9 @@ and export them to HTML.
 - [Testing DMN™ models](https://decision-toolkit.org/guide/commands/command-tdm.html)
 - [Testing decision tables](https://decision-toolkit.org/guide/commands/command-tdt.html)
 - [Testing FEEL expressions](https://decision-toolkit.org/guide/commands/command-tfe.html)
-- [Exporting DMN™ models to HTML](https://decision-toolkit.org/guide/commands/command-xdm.html)
-- [Exporting decision tables to HTML](https://decision-toolkit.org/guide/commands/command-xdt.html)
-- [Exporting FEEL expressions to HTML](https://decision-toolkit.org/guide/commands/command-xfe.html)
+- [Exporting DMN™ models](https://decision-toolkit.org/guide/commands/command-xdm.html)
+- [Exporting decision tables](https://decision-toolkit.org/guide/commands/command-xdt.html)
+- [Exporting FEEL expressions](https://decision-toolkit.org/guide/commands/command-xfe.html)
 - [Saving examples](https://decision-toolkit.org/guide/commands/command-exs.html)
 
 # Project status
