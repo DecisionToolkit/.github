@@ -26,7 +26,7 @@ and export them to HTML.
 - [Evaluating DMN™ models](https://decision-toolkit.org/guide/commands/command-edm.html)
 - [Evaluating decision tables](https://decision-toolkit.org/guide/commands/command-edt.html)
 - [Evaluating FEEL expressions](https://decision-toolkit.org/guide/commands/command-efe.html)
-- [Parsing and validating DMN™ models](https://decision-toolkit.org/guide/commands/command-pdm.html)
+- [Parsing DMN™ models](https://decision-toolkit.org/guide/commands/command-pdm.html)
 - [Parsing and recognizing decision tables](https://decision-toolkit.org/guide/commands/command-pdt.html)
 - [Parsing and validating FEEL expressions](https://decision-toolkit.org/guide/commands/command-pfe.html)
 - [Testing DMN™ models](https://decision-toolkit.org/guide/commands/command-tdm.html)
