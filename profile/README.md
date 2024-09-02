@@ -9,8 +9,8 @@
 # Overview
 
 **Decision Toolkit** is a set of tools designed to build, test and evaluate decision models,
-constructed basing on the [Decision&nbsp;Model&nbsp;and&nbsp;Notation](https://www.omg.org/dmn)&nbsp;([DMN](https://www.omg.org/dmn)™)
-specification, which is an industry standard governed by the [Object&nbsp;Management&nbsp;Group](https://www.omg.org)&nbsp;(OMG®).
+constructed basing on the [Decision Model and Notation](https://www.omg.org/dmn) ([DMN](https://www.omg.org/dmn)™)
+specification, which is an industry standard governed by the [Object Management Group](https://www.omg.org) (OMG®).
 
 **Decision Toolkit** aims to be performant, reliable, and fully compliant with the DMN™ specification,
 ensuring accurate evaluation of decision models. All tools are implemented in [Rust](https://www.rust-lang.org/),
