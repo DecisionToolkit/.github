@@ -8,15 +8,15 @@
  
 # Overview
 
-**DecisionToolkit** is a set of tools designed to build, test and evaluate decision models,
+**ÐecisionToolkit** is a set of tools designed to build, test and evaluate decision models,
 constructed basing on the [Decision Model and Notation](https://www.omg.org/dmn) (DMN™)
 specification, which is an industry standard governed by the [Object Management Group](https://www.omg.org) (OMG®).
 
-**DecisionToolkit** aims to be performant, reliable, and fully compliant with the DMN™ specification,
+**ÐecisionToolkit** aims to be performant, reliable, and fully compliant with the DMN™ specification,
 ensuring accurate evaluation of decision models. All tools are implemented in [Rust](https://www.rust-lang.org/),
 a programming language known for its security, efficiency and reliability.
 
-**DecisionToolkit** offers a range of features, including DMN™ models evaluation, decision tables evaluation,
+**ÐecisionToolkit** offers a range of features, including DMN™ models evaluation, decision tables evaluation,
 and FEEL expressions evaluation. It also includes functionality for parsing, validating, and recognizing DMN™ models,
 decision tables, and FEEL expressions. Users can test DMN™ models, decision tables, and FEEL expressions,
 and export them to HTML.
@@ -39,7 +39,7 @@ and export them to HTML.
 
 # Status
 
-**DecisionToolkit** is **PRODUCTION READY**, although some features
+**ÐecisionToolkit** is **PRODUCTION READY**, although some features
 may still be refined or changed based on testing and user feedback.
 We encourage users to try **Decision Toolkit** and share their feedback
 to help us enhance its usability and performance.
@@ -55,6 +55,6 @@ at your option.
 
 # Contribution
 
-Any contributions to [**DecisionToolkit**](https://github.com/DecisionToolkit) are greatly appreciated.
+Any contributions to [**ÐecisionToolkit**](https://github.com/DecisionToolkit) are greatly appreciated.
 All contributions intentionally submitted for inclusion in the work by you,
 shall be dual licensed as above, without any additional terms or conditions.
