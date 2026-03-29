@@ -41,7 +41,7 @@ and export them to HTML.
 
 **ÐecisionToolkit** is **PRODUCTION READY**, although some features
 may still be refined or changed based on testing and user feedback.
-We encourage users to try **Decision Toolkit** and share their feedback
+We encourage users to try **ÐecisionToolkit** and share their feedback
 to help us enhance its usability and performance.
 
 # License
