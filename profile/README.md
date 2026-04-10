@@ -3,8 +3,12 @@
 [apache-url]: https://www.apache.org/licenses/LICENSE-2.0
 [apache-license-url]: https://github.com/DecisionToolkit/dsntk/blob/main/LICENSE
 [apache-notice-url]: https://github.com/DecisionToolkit/dsntk/blob/main/NOTICE
+[Installation]: https://decision-toolkit.org/installation.html
+[Getting started]: https://decision-toolkit.org/getting-started.html
+[Documentation]: https://decision-toolkit.org
+[ÐecisionToolkit]: https://github.com/DecisionToolkit/dsntk
 
-### [Installation](https://decision-toolkit.org/installation.html) | [Documentation](https://decision-toolkit.org)
+### [Installation] | [Getting started] | [Documentation]
  
 # Overview
 
@@ -55,6 +59,6 @@ at your option.
 
 # Contribution
 
-Any contributions to [**ÐecisionToolkit**](https://github.com/DecisionToolkit/dsntk) are greatly appreciated.
+Any contributions to **[ÐecisionToolkit]** are greatly appreciated.
 All contributions intentionally submitted for inclusion in the work by you,
 shall be dual licensed as above, without any additional terms or conditions.
