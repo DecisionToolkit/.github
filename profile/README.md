@@ -1,4 +1,4 @@
-**dsntk** | ÐecisionToolkit
+# ÐecisionToolkit
 
 **Build, test and execute decisions**
 
@@ -14,7 +14,7 @@
 
 ### [Installation] | [Getting started] | [Documentation]
 
-# Overview
+## Overview
 
 **ÐecisionToolkit** is a set of tools designed to build, test and evaluate decision models,
 constructed basing on the [Decision Model and Notation](https://www.omg.org/dmn) (DMN™)
@@ -29,7 +29,7 @@ and FEEL expressions evaluation. It also includes functionality for parsing, val
 decision tables, and FEEL expressions. Users can test DMN models, decision tables, and FEEL expressions,
 and export them to HTML.
 
-# Features:
+## Features:
 - [Serving DMN models](https://decision-toolkit.org/commands/srv.html)
 - [Evaluating DMN models](https://decision-toolkit.org/commands/edm.html)
 - [Evaluating decision tables](https://decision-toolkit.org/commands/edt.html)
@@ -45,14 +45,14 @@ and export them to HTML.
 - [Exporting FEEL expressions](https://decision-toolkit.org/commands/xfe.html)
 - [Saving examples](https://decision-toolkit.org/commands/exs.html)
 
-# Status
+## Status
 
 **ÐecisionToolkit** is **PRODUCTION READY**, although some features
 may still be refined or changed based on testing and user feedback.
 We encourage users to try **ÐecisionToolkit** and share their feedback
 to help us enhance its usability and performance.
 
-# License
+## License
 
 Licensed under either of
 
@@ -61,7 +61,7 @@ Licensed under either of
 
 at your option.
 
-# Contribution
+## Contribution
 
 Any contributions to **[ÐecisionToolkit]** are greatly appreciated.
 All contributions intentionally submitted for inclusion in the work by you,
