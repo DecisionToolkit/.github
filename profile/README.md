@@ -9,8 +9,7 @@
 [Getting started]: https://decision-toolkit.org/getting-started.html
 [Documentation]: https://decision-toolkit.org
 
-- 💾 [Installation]
-- 🚀 [Getting started]
+💾&nbsp;**[Installation]**<br/>🚀&nbsp;**[Getting started]**
 
 ## Overview
 
