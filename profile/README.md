@@ -49,7 +49,7 @@ to help us enhance its usability and performance.
 
 ## License
 
-Licensed under either of
+**ÐecisionToolkit** is licensed under either of
 
 - [MIT license][mit-url] (see [LICENSE-MIT][mit-license-url]) or
 - [Apache License, Version 2.0][apache-url] (see [LICENSE][apache-license-url] and [NOTICE][apache-notice-url])
