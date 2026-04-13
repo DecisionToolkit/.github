@@ -12,7 +12,7 @@
 [Documentation]: https://decision-toolkit.org
 [ÐecisionToolkit]: https://github.com/DecisionToolkit/dsntk
 
-> **[Installation]** | **[Getting started]**
+**[Installation]** | **[Getting started]**
 
 ## Overview
 
