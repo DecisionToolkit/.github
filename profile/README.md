@@ -39,7 +39,6 @@ and export them to HTML.
 - [Exporting DMN models](https://decision-toolkit.org/commands/xdm.html)
 - [Exporting decision tables](https://decision-toolkit.org/commands/xdt.html)
 - [Exporting FEEL expressions](https://decision-toolkit.org/commands/xfe.html)
-- [Saving examples](https://decision-toolkit.org/commands/exs.html)
 
 ## Status
 
