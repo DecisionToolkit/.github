@@ -61,3 +61,13 @@ at your option.
 Any contributions to **ÐecisionToolkit** are greatly appreciated.
 All contributions intentionally submitted for inclusion in the work by you,
 shall be dual licensed as above, without any additional terms or conditions.
+
+## Versions
+
+<div style="display:flex;align-content:flex-start">
+
+| ÐecisionToolkit |     DMN™     |
+|:---------------:|:------------:|
+| **v^dsntk-ver** | **^dmn-ver** |
+
+</div>
