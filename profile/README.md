@@ -1,10 +1,4 @@
-<span style="font-size:2em;font-weight:bold">ÐecisionToolkit</span>
-
-
-
 # ÐecisionToolkit
-
-> **Build and execute decisions**
 
 [mit-url]: https://opensource.org/licenses/MIT
 [mit-license-url]: https://github.com/DecisionToolkit/dsntk/blob/main/LICENSE-MIT
