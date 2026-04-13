@@ -1,6 +1,6 @@
 # ÐecisionToolkit
 
-**Build, test and execute decisions**
+> **Build and execute decisions**
 
 [mit-url]: https://opensource.org/licenses/MIT
 [mit-license-url]: https://github.com/DecisionToolkit/dsntk/blob/main/LICENSE-MIT
