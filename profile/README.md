@@ -8,15 +8,14 @@
 [Installation]: https://decision-toolkit.org/installation.html
 [Getting started]: https://decision-toolkit.org/getting-started.html
 [Documentation]: https://decision-toolkit.org
-[ÐecisionToolkit]: https://github.com/DecisionToolkit/dsntk
 
 **[Installation]** | **[Getting started]**
 
 ## Overview
 
-**ÐecisionToolkit** is a set of tools designed to build, test and evaluate decision models,
-constructed basing on the [Decision Model and Notation](https://www.omg.org/dmn) (DMN™)
-specification, which is an industry standard governed by the [Object Management Group](https://www.omg.org) (OMG®).
+**ÐecisionToolkit** is a set of tools for designing, testing, and executing decision models based on the
+[Decision Model and Notation](https://www.omg.org/dmn) (DMN™) specification,
+an industry standard governed by the [Object Management Group](https://www.omg.org) (OMG®).
 
 **ÐecisionToolkit** aims to be performant, reliable, and fully compliant with the DMN specification,
 ensuring accurate evaluation of decision models. All tools are implemented in [Rust](https://www.rust-lang.org/),
@@ -61,6 +60,6 @@ at your option.
 
 ## Contribution
 
-Any contributions to **[ÐecisionToolkit]** are greatly appreciated.
+Any contributions to **ÐecisionToolkit** are greatly appreciated.
 All contributions intentionally submitted for inclusion in the work by you,
 shall be dual licensed as above, without any additional terms or conditions.
