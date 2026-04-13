@@ -25,7 +25,7 @@ and FEEL expressions evaluation. It also includes functionality for parsing, val
 decision tables, and FEEL expressions. Users can test DMN models, decision tables, and FEEL expressions,
 and export them to HTML.
 
-## Features:
+## Features
 - [Serving DMN models](https://decision-toolkit.org/commands/srv.html)
 - [Evaluating DMN models](https://decision-toolkit.org/commands/edm.html)
 - [Evaluating decision tables](https://decision-toolkit.org/commands/edt.html)
