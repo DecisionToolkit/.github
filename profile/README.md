@@ -66,4 +66,4 @@ shall be dual licensed as above, without any additional terms or conditions.
 
 | **ÐecisionToolkit** | **DMN™** |
 |:-------------------:|:--------:|
-|     **v0.3.0**      | **1.5** |
+|     **v0.3.0**      | **1.5**  |
