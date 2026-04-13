@@ -66,8 +66,8 @@ shall be dual licensed as above, without any additional terms or conditions.
 
 <div style="display:flex;align-content:flex-start">
 
-| ÐecisionToolkit |     DMN™     |
-|:---------------:|:------------:|
-| **v^dsntk-ver** | **^dmn-ver** |
+| **ÐecisionToolkit** | **DMN™** |
+|:-------------------:|:--------:|
+|       v0.3.0        |   v1.5   |
 
 </div>
