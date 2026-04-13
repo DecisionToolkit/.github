@@ -64,10 +64,6 @@ shall be dual licensed as above, without any additional terms or conditions.
 
 ## Versions
 
-<div style="display:flex;align-content:flex-start">
-
 | **ÐecisionToolkit** | **DMN™** |
 |:-------------------:|:--------:|
-|       v0.3.0        |   v1.5   |
-
-</div>
+|     **v0.3.0**      | **v1.5** |
