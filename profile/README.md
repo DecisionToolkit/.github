@@ -7,7 +7,6 @@
 [apache-notice-url]: https://github.com/DecisionToolkit/dsntk/blob/main/NOTICE
 [Installation]: https://decision-toolkit.org/installation.html
 [Getting started]: https://decision-toolkit.org/getting-started.html
-[Documentation]: https://decision-toolkit.org
 
 **[Installation]** | **[Getting started]**
 
